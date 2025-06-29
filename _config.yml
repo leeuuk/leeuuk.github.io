@@ -1,11 +1,13 @@
-title: UULEE
+title: Wonkyeong Lee
 description: "Wonkyeong Lee's personal website"
 theme: just-the-docs
 
 url: https://leeuuk.github.io
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links: # remove if you don't want this link to appear on your pages
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/favicon.ico"
+
+nav_enabled: true
