@@ -15,11 +15,19 @@ nav_order: 3
 
 ----
 
-## Awards and Fellowships
-
-----
-
 ## Patents
 
 - *Artificial intelligence-based video quality evaluation device, method, and computer-readable program therefor.* J. H. Choi, **W. Lee**. Patent WO2023096337A1, World Intellectual Property Organization, June 1, 2023.
 - *Device and method for image quality assessment based on AI and computer readable program for the same.* J. H. Choi, **W. Lee**. Patent KR20230076112A, Korean Intellectual Property Office, May 31, 2023.
+
+---
+
+## Datasets and Challenges
+
+- *Low-dose computed tomography perceptual image quality assessment grand challenge 2023*: Hosted in conjunction with MICCAI 2023. [[website]](https://ldctiqac2023.grand-challenge.org/)
+
+---
+
+## Invited Talks
+
+- *Image quality assessment for CT images*: Talk at the IEEK Winter School on Bio Imaging and Signal Processing. January, 2025.

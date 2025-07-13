@@ -26,11 +26,11 @@ nav_order: 1
 
 ## Short Bio
 
-I am an incoming PhD student in electrical engineering at Stanford University, and currently a research assistant at the National Cancer Center Korea.
+I am an incoming PhD student in Electrical Engineering at Stanford University and currently a research assistant at the National Cancer Center Korea. My research interests broadly lie in machine learning, representation learning, and their applications to medical imaging.
 
-Previously, I received my B.S. and M.S. degrees from Ewha Womans University, where I was advised by Prof. Jang-Hwan Choi. I was also a visiting student researcher at Stanford, advised by Prof. Adam Wang.
+I completed my B.S. and M.S. in Mechanical and Biomedical Engineering at Ewha Womans University, advised by Prof. Jang-Hwan Choi. I also spent time as a visiting student researcher at Stanford University, working with Prof. Adam Wang. During my master’s, I developed learning-based methods for evaluating medical image quality and built the first open-source dataset and challenge for this task. While at Stanford, I also worked on organ-level CT noise estimation by modeling the spatial distribution of image noise.
 
-I am supported by a graduate study-abroad scholarship from the SBS Foundation and an EDGE Fellowship from Stanford University.
+My PhD research is supported by a graduate study-abroad scholarship from the SBS Foundation and an EDGE Fellowship from Stanford University.
 
 ----
 
@@ -40,7 +40,7 @@ I am supported by a graduate study-abroad scholarship from the SBS Foundation 
   - **[May 01]** I will be joining Stanford University as a PhD student in Electrical Engineering starting this fall!
 
 * 2024
-  - **[May 01]** I have received the SBS Foundation Study Abroad Graduate Scholarship!
-  - **[May 01]** One paper got accepted to Medical Image Analysis!
-  - **[May 01]** I have received an EDGE Fellowship from Stanford University!
-  - **[May 01]** I have been accepted to the PhD program in Electrical Engineering at Stanford!
+  - **[Sep 04]** One paper got accepted to Medical Image Analysis!
+  - **[Jul 30]** I have received the SBS Foundation Study Abroad Graduate Scholarship!
+  - **[Feb 17]** I have received an EDGE Fellowship from Stanford University!
+  - **[Feb 17]** I have been accepted to the PhD program in Electrical Engineering at Stanford!
