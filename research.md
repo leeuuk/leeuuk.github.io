@@ -13,8 +13,6 @@ S. Wang, M. J. Medrano, A. A. Z. Imran, <b>W. Lee</b>, J. J. Cao, G. M. Stevens,
 <i>Physics in Medicine &amp; Biology</i>, 2025. 
 <a href="https://doi.org/10.1088/1361-6560/ada67f">[pdf]</a>
 </summary>
-  
-This work presents a fully automated pipeline for individualized organ-specific dose and noise estimation in CT. Patient-specific dose maps are computed using GPU-based Monte Carlo simulation, while noise maps at arbitrary dose levels are generated using an empirically calibrated model that captures quantum noise, electronic noise, and reconstruction effects. Organ masks are obtained via deep learning segmentation (TotalSegmentator), enabling organ-level dose and noise quantification. The method achieves <2 HU RMSE and <2% organ-level error, supporting scalable retrospective protocol optimization and personalized imaging.
 
 <div style="text-align:center; margin-top:15px;">
   <img src="{{ site.baseurl }}/src/wang2025automated.png" 
@@ -23,6 +21,8 @@ This work presents a fully automated pipeline for individualized organ-specific 
     Conceptual overview of the proposed method.
   </p>
 </div>
+  
+This work presents a fully automated pipeline for individualized organ-specific dose and noise estimation in CT. Patient-specific dose maps are computed using GPU-based Monte Carlo simulation, while noise maps at arbitrary dose levels are generated using an empirically calibrated model that captures quantum noise, electronic noise, and reconstruction effects. Organ masks are obtained via deep learning segmentation (TotalSegmentator), enabling organ-level dose and noise quantification. The method achieves <2 HU RMSE and <2% organ-level error, supporting scalable retrospective protocol optimization and personalized imaging.
 
 </details>
 
