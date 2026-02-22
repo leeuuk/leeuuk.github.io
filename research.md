@@ -13,13 +13,6 @@ nav_order: 3
 - *Deep denoising network for x-ray fluoroscopic image sequences of moving objects.* W. Kim, **W. Lee**, S. Y. Jeon, N. Kang, G. Jo, J. H. Choi. MICCAI 2022 Workshop. [[pdf](https://doi.org/10.1007/978-3-031-17247-2_10)]
 - *Performance evaluation of image quality metrics for perceptual assessment of low-dose computed tomography images.* **W. Lee**, E. Cho, W. Kim, J. H. Choi. SPIE Medical Imaging 2022. [[pdf](https://doi.org/10.1117/12.2612541)]
 
-----
-
-## Patents
-
-- *Artificial intelligence-based video quality evaluation device, method, and computer-readable program therefor.* J. H. Choi, **W. Lee**. Patent WO2023096337A1, World Intellectual Property Organization, June 1, 2023.
-- *Device and method for image quality assessment based on AI and computer readable program for the same.* J. H. Choi, **W. Lee**. Patent KR20230076112A, Korean Intellectual Property Office, May 31, 2023.
-
 ---
 
 ## Datasets and Challenges
