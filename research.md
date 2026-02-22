@@ -6,6 +6,18 @@ nav_order: 3
 
 ## Publications
 
+<details>
+<summary>
+<b>Automated estimation of individualized organ-specific dose and noise from clinical CT scans</b><br>
+S. Wang, M. J. Medrano, A. A. Z. Imran, <b>W. Lee</b>, J. J. Cao, G. M. Stevens, J. R. Tse, A. S. Wang. 
+<i>Physics in Medicine &amp; Biology</i>, 2025. 
+<a href="https://doi.org/10.1088/1361-6560/ada67f">[pdf]</a>
+</summary>
+  
+This work presents a fully automated pipeline for individualized organ-specific dose and noise estimation in CT. Patient-specific dose maps are computed using GPU-based Monte Carlo simulation, while noise maps at arbitrary dose levels are generated using an empirically calibrated model that captures quantum noise, electronic noise, and reconstruction effects. Organ masks are obtained via deep learning segmentation (TotalSegmentator), enabling organ-level dose and noise quantification. The method achieves <2 HU RMSE and <2% organ-level error, supporting scalable retrospective protocol optimization and personalized imaging.
+
+</details>
+
 - *Automated estimation of individualized organ-specific dose and noise from clinical CT scans.* S. Wang, M. J. Medrano, A. A. Z. Imran, **W. Lee**, J. J. Cao, G. M. Stevens, J. R. Tse, A. S. Wang. Physics in Medicine & Biology, 2025. [[pdf](https://doi.org/10.1088/1361-6560/ada67f)]
 - *Low-dose computed tomography perceptual image quality assessment.* **W. Lee**, F. Wagner, A. Galdran, Y. Shi, W. Xia, G. Wang, X. Mou, M. A. Ahamed, A. A. Z. Imran, J. E. Oh, K. Kim, J. T. Baek, D. Lee, B. Hong, P. Tempelman, D. Lyu, A. Kuiper, L. v. Blokland, M. B. Calisto, S. Hsieh, M. Han, J. Baek, A. Maier, A. Wang, G. E. Gold, J. H. Choi. Medical Image Analysis, 2025. [[pdf](https://doi.org/10.1016/j.media.2024.103343)]
 - *Efficient deep-detector image quality assessment based on knowledge distillation.* **W. Lee**, G. E. Gold, J. H. Choi. IEEE Transactions on Instrumentation and Measurement, 2023. [[pdf](https://doi.org/10.1109/TIM.2023.3346519)]
