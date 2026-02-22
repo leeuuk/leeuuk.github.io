@@ -11,9 +11,9 @@ nav_order: 1
   <div style="flex: 1;">
     <p>
       <h3>Wonkyeong Lee</h3><div style="margin-top: 0.5em;"></div>
-      Research Assistant<br>
-      Hepatobiliary and Pancreatic Cancer Center<br>
-      National Cancer Center Korea<br><div style="margin-top: 0.5em;"></div>
+      PhD student at Stanford<br>
+      Electrical Engineering<br>
+      Stanford University<br><div style="margin-top: 0.5em;"></div>
 
       email: uulee (at) stanford (dot) edu<br><div style="margin-top: 0.5em;"></div>
 
@@ -26,9 +26,7 @@ nav_order: 1
 
 ## Short Bio
 
-I am an incoming PhD student in Electrical Engineering at Stanford University and currently a research assistant at the National Cancer Center Korea. My research interests broadly lie in machine learning, representation learning, and their applications to medical imaging.
-
-I completed my B.S. and M.S. in Mechanical and Biomedical Engineering at Ewha Womans University, advised by Prof. Jang-Hwan Choi. I also spent time as a visiting student researcher at Stanford University, working with Prof. Adam Wang. During my master’s, I developed learning-based methods for evaluating medical image quality and built the first open-source dataset and challenge for this task. While at Stanford, I also worked on organ-level CT noise estimation by modeling the spatial distribution of image noise.
+I am a PhD student in Electrical Engineering at Stanford University. I completed my B.S. and M.S. in Mechanical and Biomedical Engineering at Ewha Womans University, advised by Prof. Jang-Hwan Choi. I also spent time as a visiting student researcher at Stanford University, working with Prof. Adam Wang. During my master’s, I developed learning-based methods for evaluating medical image quality and built the first open-source dataset and challenge for this task. While at Stanford, I also worked on organ-level CT noise estimation by modeling the spatial distribution of image noise.
 
 My PhD research is supported by a graduate study-abroad scholarship from the SBS Foundation and an EDGE Fellowship from Stanford University.
 
